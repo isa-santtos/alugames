@@ -27,5 +27,5 @@
 * Alterar o texto de um elemento da página, via **propriedade textContent**;
 * Declarar um **bloco condicional if/else**, para implementar a funcionalidade de alterar o status de um jogo.
 
-# 📝 Licença
+## 📝 Licença
 ### Feito com ❤️ por Isa Santos 👋🏽 [Me encontre aqui](https://www.linkedin.com/in/isabela-siqueira-40609925/)
